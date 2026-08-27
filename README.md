@@ -241,5 +241,3 @@ B.Tech – Artificial Intelligence and Data Science
 2026
 
 ---
-
-⭐ If you find this project useful, consider giving the repository a star!
