@@ -1,0 +1,43 @@
+station_id,station_name,area,latitude,longitude,operator,zone_type,near_metro_station,dedicated_cycle_lane,capacity,install_date
+BLR001,MG Road - Main,MG Road,12.98121,77.60728,Bounce,commercial,True,True,16,2025-01-24
+BLR002,Indiranagar - Main,Indiranagar,12.97411,77.64261,Yulu,mixed,True,False,24,2025-01-21
+BLR003,Koramangala - Main,Koramangala,12.93654,77.61858,Yulu,mixed,False,False,20,2025-01-16
+BLR004,Koramangala - Metro Gate,Koramangala,12.93199,77.61959,Bounce,mixed,False,False,16,2025-08-05
+BLR005,HSR Layout - Main,HSR Layout,12.90815,77.63938,Bounce,residential,False,False,30,2025-04-21
+BLR006,HSR Layout - Metro Gate,HSR Layout,12.90887,77.64149,Bounce,residential,False,False,20,2025-02-17
+BLR007,BTM Layout - Main,BTM Layout,12.91855,77.60784,Yulu,residential,False,True,20,2024-12-26
+BLR008,Jayanagar - Main,Jayanagar,12.92374,77.59892,Bounce,residential,True,False,16,2025-09-08
+BLR009,Jayanagar - Metro Gate,Jayanagar,12.92913,77.59677,Yulu,residential,False,False,20,2024-10-13
+BLR010,JP Nagar - Main,JP Nagar,12.91133,77.57999,Bounce,residential,True,True,24,2025-01-11
+BLR011,Banashankari - Main,Banashankari,12.92754,77.57018,Bounce,residential,True,False,30,2024-12-09
+BLR012,Rajajinagar - Main,Rajajinagar,12.98907,77.54676,Yulu,residential,True,False,16,2024-10-27
+BLR013,Rajajinagar - Metro Gate,Rajajinagar,12.99183,77.5506,Bounce,residential,False,False,24,2025-03-14
+BLR014,Malleswaram - Main,Malleswaram,13.00377,77.57003,Yulu,residential,True,True,12,2024-10-20
+BLR015,Malleswaram - Metro Gate,Malleswaram,13.00426,77.57325,Yulu,residential,False,False,20,2025-03-13
+BLR016,Yeshwanthpur - Main,Yeshwanthpur,13.02332,77.55148,Yulu,transit_hub,True,False,30,2024-10-06
+BLR017,Yeshwanthpur - Metro Gate,Yeshwanthpur,13.02788,77.55062,Yulu,transit_hub,False,False,24,2025-01-25
+BLR018,Hebbal - Main,Hebbal,13.03332,77.59232,Yulu,transit_hub,False,False,20,2024-11-07
+BLR019,Hebbal - Metro Gate,Hebbal,13.03148,77.59741,Yulu,transit_hub,False,True,20,2025-03-27
+BLR020,Yelahanka - Main,Yelahanka,13.10073,77.59874,Yulu,residential,False,False,30,2025-03-02
+BLR021,Whitefield - Main,Whitefield,12.97235,77.74578,Bounce,tech_park,True,False,16,2025-07-23
+BLR022,Whitefield - Metro Gate,Whitefield,12.96714,77.7549,Yulu,tech_park,False,True,12,2024-12-23
+BLR023,Marathahalli - Main,Marathahalli,12.95897,77.70424,Yulu,tech_park,False,True,24,2024-10-06
+BLR024,Marathahalli - Metro Gate,Marathahalli,12.95569,77.7049,Bounce,tech_park,False,False,16,2024-10-03
+BLR025,Electronic City - Main,Electronic City,12.84629,77.66233,Yulu,tech_park,False,True,20,2024-10-20
+BLR026,Electronic City - Metro Gate,Electronic City,12.85049,77.65897,Yulu,tech_park,False,False,24,2024-11-18
+BLR027,Sarjapur Road - Main,Sarjapur Road,12.9061,77.69153,Yulu,tech_park,False,False,20,2025-09-17
+BLR028,Sarjapur Road - Metro Gate,Sarjapur Road,12.8979,77.68212,Bounce,tech_park,False,False,30,2025-05-03
+BLR029,Bellandur - Main,Bellandur,12.9328,77.68256,Bounce,tech_park,False,False,20,2024-11-17
+BLR030,Bellandur - Metro Gate,Bellandur,12.92634,77.68318,Bounce,tech_park,False,True,12,2024-10-18
+BLR031,Domlur - Main,Domlur,12.95703,77.63928,Bounce,tech_park,False,True,20,2024-10-01
+BLR032,Domlur - Metro Gate,Domlur,12.96103,77.63485,Yulu,tech_park,False,False,24,2025-05-16
+BLR033,Ulsoor - Main,Ulsoor,12.97991,77.61698,Yulu,mixed,False,False,30,2024-11-27
+BLR034,RT Nagar - Main,RT Nagar,13.018,77.59674,Bounce,residential,False,True,24,2025-08-04
+BLR035,RT Nagar - Metro Gate,RT Nagar,13.01409,77.59675,Yulu,residential,False,False,30,2024-12-03
+BLR036,Basavanagudi - Main,Basavanagudi,12.94764,77.57397,Bounce,residential,False,False,20,2025-01-21
+BLR037,Basavanagudi - Metro Gate,Basavanagudi,12.93849,77.57322,Yulu,residential,False,False,16,2024-11-03
+BLR038,Vijayanagar - Main,Vijayanagar,12.96707,77.53638,Bounce,residential,True,False,12,2024-11-17
+BLR039,Vijayanagar - Metro Gate,Vijayanagar,12.97608,77.53064,Bounce,residential,False,True,20,2025-07-18
+BLR040,KR Puram - Main,KR Puram,13.0019,77.70096,Yulu,transit_hub,True,False,20,2024-10-14
+BLR041,KR Puram - Metro Gate,KR Puram,13.00105,77.70068,Yulu,transit_hub,False,True,16,2024-10-22
+BLR042,Bommanahalli - Main,Bommanahalli,12.89786,77.62778,Bounce,mixed,False,True,24,2025-01-15
